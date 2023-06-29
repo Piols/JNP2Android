@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gridentify</string>
+    <string name="current_score">Current Score:</string>
+</resources>
