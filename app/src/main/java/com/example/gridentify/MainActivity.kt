@@ -42,6 +42,8 @@ class MainActivity : ComponentActivity() {
                 cells[i][j].button.setOnClickListener {(onCellClicked(i, j))}
             }
         }
+
+        newGame()
     }
 
     fun newGame() {
