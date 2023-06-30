@@ -21,4 +21,6 @@ Gra się kończy kiedy nie ma już więcej możliwych połączeń. Wyświetla si
 
 ## Screenshoty
 
-<img src="https://github.com/Piols/JNP2Android/blob/main/ss1.jpg" width="200" height=auto /> <img src="https://github.com/Piols/JNP2Android/blob/main/ss2.jpg" width="200" height=auto /> <img src="https://github.com/Piols/JNP2Android/blob/main/ss3.jpg" width="200" height=auto />
+<img src="https://github.com/Piols/JNP2Android/blob/main/ss1.jpg" width="200" height=auto /> <img src="https://github.com/Piols/JNP2Android/blob/main/ss2.jpg" width="200" height=auto /> 
+
+<img src="https://github.com/Piols/JNP2Android/blob/main/ss3.jpg" width="200" height=auto />
